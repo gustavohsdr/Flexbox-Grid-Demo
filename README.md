@@ -25,4 +25,4 @@ O foco foi a fidelidade ao design original, seguindo feedbacks diretos do mentor
 📌 Créditos
 Layout inspirado no curso Origamid.
 
-Agradecimentos ao meu amigo [@nome-do-seu-amigo] pelas dicas e revisões!
+Agradecimentos ao meu amigo @vladmir pelas dicas e revisões!
